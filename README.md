@@ -1,22 +1,21 @@
-
-
-```markdown
 # Info Padel 🎾
 
-Aplicación para consultar información sobre pistas de pádel en **Valencia**.  
-El proyecto busca ser un recurso comunitario, abierto a desarrolladores y usuarios que deseen mejorar la experiencia del pádel en la región.
+Aplicación móvil en **Kotlin** que permite consultar información sobre pistas de pádel en la ciudad de **Valencia**.  
+El objetivo es ofrecer un recurso abierto para la comunidad de jugadores, entrenadores y aficionados, al mismo tiempo que sirve de ejemplo educativo para desarrolladores Android que quieran practicar con Kotlin.
 
-## 🌟 Características
-- Desarrollado en **Kotlin** para Android.
+## 🚀 Contenido
 - Listado de pistas de pádel con información básica.
-- Diseño simple y extensible.
-- Abierto a contribuciones para ampliar datos (reseñas, reservas, mapas, etc.).
+- Interfaz inicial simple y extensible.
+- Base para futuras mejoras: reseñas, reservas, integración con mapas.
+- Código abierto para fomentar el aprendizaje y la colaboración.
 
-## 🛠️ Tecnologías
+## 🛠️ Requisitos
 - [Kotlin](https://kotlinlang.org/)
-- Android SDK
+- [Android Studio](https://developer.android.com/studio) (última versión recomendada).
+- SDK de Android configurado.
 
-## 🚀 Uso
-1. Clona este repositorio:  
+## ▶️ Ejecución
+1. Clonar el repositorio:
    ```bash
    git clone https://github.com/pauogdev/info-padel.git
+
