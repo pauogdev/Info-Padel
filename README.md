@@ -1,7 +1,4 @@
 
----
-
-# 📌 3. `Info-Padel`
 
 ```markdown
 # Info Padel 🎾
